@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: https-server
-          image: https-server:117
+          image: https-server:118
           ports:
             - containerPort: 443
 ---
